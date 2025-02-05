@@ -20,7 +20,6 @@ void registrarMovimentacao(const char *insumo, float qtd, float total, const cha
 
 int main() {
     int opcao;
-    printf("o");
     do {
         printf("\n=== Sistema de Gerenciamento de Inventario ===\n");
         printf("1. Cadastrar Insumo\n");

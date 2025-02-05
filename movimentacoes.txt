@@ -1,0 +1,6 @@
+Milho;Entrada;10.0;60.0
+Milho;Saida;-5.0;55.0
+Soja;Entrada;15.0;35.0
+Soja;Saida;-5.0;30.0
+Hortalica;Entrada;3.0;8.0
+Hortalica;Saida;-2.0;6.0

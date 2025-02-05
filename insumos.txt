@@ -1,2 +1,3 @@
 Milho; sementes; kg; 50
-soja;sementes;kg ;20
+soja; sementes; kg; 20
+hortalica;sementes;kg;5.00
