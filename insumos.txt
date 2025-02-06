@@ -1,3 +1,4 @@
-Milho; sementes; kg; 50
-soja; sementes; kg; 20
+Milho; sementes; kg;90.00
+soja; sementes; kg;20.00
 hortalica;sementes;kg;5.00
+Cenoura;sementes;kg;10.00
